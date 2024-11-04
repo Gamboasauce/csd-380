@@ -1,2 +1,2 @@
-# csd-380
-Repository for class
+# CSD 380 DevOps
+Contributors
